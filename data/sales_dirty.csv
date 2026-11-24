@@ -1,0 +1,541 @@
+Order ID,Order Date,Country,Product ID,Product Name,Product Category,Units Sold,Unit Price,Revenue,Cost,Profit
+ORD-2024-10001,2024-01-26,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,3,1660.82,4982.46,2174.20,2808.26
+ORD-2024-10002,2024-01-22,Japan,PRD-402,SIEM Threat Telemetry,Cybersecurity,11,1346.80,14814.80,7235.37,7579.43
+ORD-2024-10003,2024-01-15,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,3,1384.54,4153.62,1744.68,2408.94
+ORD-2024-10004,2024-01-23,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,11,1616.18,17777.98,12689.53,5088.45
+ORD-2024-10005,2024-01-02,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,14,930.68,13029.52,7353.76,5675.76
+ORD-2024-10006,2024-01-03,Australia,PRD-102,Elastic Storage Vault,Cloud Infrastructure,9,701.33,6311.97,3514.87,2797.10
+ORD-2024-10007,2024-01-05,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,7,1636.00,11452.00,7806.96,3645.04
+ORD-2024-10008,2024-01-12,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,3,981.35,2944.05,1077.62,1866.43
+ORD-2024-10009,2024-01-08,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,2,1632.91,3265.82,1335.10,1930.72
+ORD-2024-10010,2024-01-25,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,14,1393.83,19513.62,7899.56,11614.06
+ORD-2024-10011,2024-01-06,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,7,513.36,3593.52,1443.00,2150.52
+ORD-2024-10012,2024-01-18,United Kingdom,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,11,963.11,10594.21,3397.11,7197.10
+ORD-2024-10013,2024-01-17,Canada,PRD-201,Enterprise ERP Core,Enterprise Software,6,1843.17,11059.02,5105.37,5953.65
+ORD-2024-10014,2024-01-07,India,PRD-502,Rackmount Fiber Switch,Hardware & Edge,14,1220.30,17084.20,12052.63,5031.57
+ORD-2024-10014,2024-01-31,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,5,1222.83,6114.15,4244.14,1870.01
+ORD-2024-10016,2024-01-31,United Kingdom,PRD-401,ZeroTrust Identity Shield,Cybersecurity,9,914.90,8234.10,3267.62,4966.48
+ORD-2024-10017,2024-01-21,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,5,1620.35,8101.75,5579.66,2522.09
+ORD-2024-10018,2024-01-10,Canada,PRD-402,SIEM Threat Telemetry,Cybersecurity,6,1397.19,8383.14,4014.23,4368.91
+ORD-2024-10019,2024-01-04,Japan,PRD-402,SIEM Threat Telemetry,Cybersecurity,4,1409.96,5639.84,2579.49,3060.35
+ORD-2024-10020,2024-01-05,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,4,NULL,6603.48,2649.92,3953.56
+ORD-2024-10021,2024-01-01,Australia,PRD-502,Rackmount Fiber Switch,Hardware & Edge,11,1223.31,13456.41,8746.54,4709.87
+ORD-2024-10022,2024-01-01,,PRD-401,ZeroTrust Identity Shield,Cybersecurity,8,866.21,6929.68,2972.98,3956.70
+ORD-2024-10023,2024-01-10,Canada,PRD-102,Elastic Storage Vault,Cloud Infrastructure,3,677.27,2031.81,1150.11,881.70
+ORD-2024-10024,2024-02-23,United States,PRD-201,Enterprise ERP Core,Enterprise Software,12,1846.88,22162.56,9355.40,12807.16
+ORD-2024-10025,2024-02-29,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,4,1382.44,5529.76,2193.43,3336.33
+ORD-2024-10026,2024-02-27,Germany,PRD-401,ZeroTrust Identity Shield,Cybersecurity,6,875.01,5250.06,2093.54,3156.52
+ORD-2024-10027,2024-02-09,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1397.50,11180.00,5438.58,5741.42
+ORD-2024-10028,2024-02-15,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,5,1602.05,8460.50,5794.03,2216.22
+ORD-2024-10029,2024-02-18,Singapore,PRD-501,Edge Telemetry Appliance,Hardware & Edge,11,1584.73,17432.03,11932.87,5499.16
+ORD-2024-10030,2024-02-20,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,6,1441.61,8649.66,3089.48,5560.18
+ORD-2024-10031,2024-02-09,United States,PRD-201,Enterprise ERP Core,Enterprise Software,7,1909.51,13366.57,5414.42,7952.15
+ORD-2024-10032,2024-02-19,Singapore,PRD-101,CloudCore Compute Node,Cloud Infrastructure,14,1276.77,17874.78,10722.12,7152.66
+ORD-2024-10033,2024-02-17,United Kingdom,PRD-401,ZeroTrust Identity Shield,Cybersecurity,10,866.61,8666.10,3444.26,5221.84
+ORD-2024-10034,2025-13-45,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,9,1574.36,14169.24,10290.40,3878.84
+ORD-2024-10035,2024-02-24,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,12,1369.14,16429.68,7257.73,9171.95
+ORD-2024-10036,2024-02-05,Canada,PRD-102,Elastic Storage Vault,Cloud Infrastructure,9,665.86,5992.74,3380.34,2612.40
+ORD-2024-10037,2024-02-07,India,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,13,446.17,5800.21,3576.31,2223.90
+ORD-2024-10038,2024-02-26,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1368.86,10950.88,5232.49,5718.39
+ORD-2024-10039,2024-02-11,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,9,706.45,6358.05,3516.83,3451.22
+ORD-2024-10040,2024-02-18,Australia,PRD-203,Supply Chain Sync Pro,Enterprise Software,8,1104.69,8837.52,4051.22,4786.30
+ORD-2024-10041,2024-02-08,Australia,PRD-403,Endpoint Vault Guard,Cybersecurity,9,511.67,4605.03,1765.27,2839.76
+ORD-2024-10042,2024-02-19,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,-2,1645.14,21386.82,9211.95,12174.87
+ORD-2024-10043,2024-02-22,Canada,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,5,975.47,4877.35,2846.40,2030.95
+ORD-2024-10044,2024-02-19,Singapore,PRD-203,Supply Chain Sync Pro,Enterprise Software,11,1147.29,12620.19,5719.47,6900.72
+ORD-2024-10045,2024-02-26,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,12,1920.10,23041.20,9382.75,13658.45
+ORD-2024-10046,2024-03-27,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,12,933.22,11198.64,7020.71,4177.93
+ORD-2024-10047,2024-03-01,Germany,PRD-101,CloudCore Compute Node,Cloud Infrastructure,9,1299.47,11695.23,7340.72,4354.51
+ORD-2024-10048,2024-03-07,India,PRD-403,Endpoint Vault Guard,Cybersecurity,4,530.62,2122.48,925.38,1197.10
+ORD-2024-10047,2024-03-09,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,7,1557.98,10905.86,7811.88,3093.98
+ORD-2024-10050,2024-03-12,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,14,1334.20,18678.80,9060.69,9618.11
+ORD-2024-10051,2024-03-09,Australia,PRD-502,Rackmount Fiber Switch,Hardware & Edge,5,1206.07,6030.35,4074.71,1955.64
+ORD-2024-10052,2024-03-02,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,3,1544.20,4632.60,3295.88,1336.72
+ORD-2024-10053,2024-03-17,Canada,PRD-403,Endpoint Vault Guard,Cybersecurity,5,539.96,2699.80,1004.32,1695.48
+ORD-2024-10054,2024-03-29,Canada,PRD-201,,Enterprise Software,3,1819.09,5457.27,2273.27,3184.00
+ORD-2024-10055,2024-03-31,Australia,PRD-202,Workflow Automation Suite,Enterprise Software,2,777.45,1554.90,686.28,868.62
+ORD-2024-10056,2024-03-11,United Kingdom,PRD-203,Supply Chain Sync Pro,Enterprise Software,2,1121.22,2242.44,977.81,1264.63
+ORD-2024-10057,2024-03-26,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,6,916.28,5497.68,3038.09,2459.59
+ORD-2024-10058,2024-03-19,Germany,PRD-101,CloudCore Compute Node,Cloud Infrastructure,11,1268.29,13951.19,8225.01,5726.18
+ORD-2024-10059,2024-03-29,United Kingdom,PRD-202,Workflow Automation Suite,Enterprise Software,3,790.01,2370.03,1014.75,1355.28
+ORD-2024-10060,2024-03-01,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,6,948.33,5689.98,3222.45,2467.53
+ORD-2024-10061,2024-03-17,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,13,1589.32,20661.16,14549.43,6111.73
+ORD-2024-10062,2024-03-15,United States,PRD-101,CloudCore Compute Node,Misc_Unknown,16,1279.25,20468.00,12923.31,7544.69
+ORD-2024-10063,2024-03-11,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,3,1347.69,4043.07,1987.30,2055.77
+ORD-2024-10064,2024-03-31,Canada,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,4,431.53,1726.12,1074.81,651.31
+ORD-2024-10065,2024-03-26,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,2,1224.39,2448.78,1568.07,880.71
+ORD-2024-10066,2024-03-12,India,PRD-101,CloudCore Compute Node,Cloud Infrastructure,10,1281.62,12816.20,8384.92,4431.28
+ORD-2024-10067,2024-03-21,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,2,974.01,1948.02,692.81,1255.21
+ORD-2024-10068,2024-03-15,   ,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,2,930.11,1860.22,1142.92,717.30
+ORD-2024-10069,2024-04-02,United Kingdom,PRD-301,InsightStream BI Engine,Data Analytics Suites,10,1377.88,13778.80,5514.43,8264.37
+ORD-2024-10070,2024-04-05,Canada,PRD-201,Enterprise ERP Core,Enterprise Software,6,1821.68,10930.08,4469.59,6460.49
+ORD-2024-10071,2024-04-01,Singapore,PRD-401,ZeroTrust Identity Shield,Cybersecurity,9,876.05,7884.45,3106.59,4777.86
+ORD-2024-10072,2024-04-22,Germany,PRD-202,Workflow Automation Suite,Enterprise Software,13,777.60,10108.80,3850.60,6258.20
+ORD-2024-10073,2024-04-18,Singapore,PRD-301,InsightStream BI Engine,Data Analytics Suites,4,1382.36,5529.44,2206.37,3323.07
+ORD-2024-10074,2024-04-05,Japan,PRD-402,SIEM Threat Telemetry,Cybersecurity,9,1341.41,11752.19,5129.34,6943.35
+ORD-2024-10075,2024-04-20,Singapore,PRD-301,InsightStream BI Engine,Data Analytics Suites,13,1388.22,18046.86,7128.67,10918.19
+ORD-2024-10076,2024-04-08,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,5,430.80,2154.00,1446.86,707.14
+ORD-2024-10077,2024-04-29,United States,PRD-201,Enterprise ERP Core,Enterprise Software,4,1868.45,7473.80,3300.77,4173.03
+ORD-2024-10078,2024-04-24,Australia,PRD-203,Supply Chain Sync Pro,Enterprise Software,9,1125.67,10131.03,4905.52,5225.51
+ORD-2024-10079,not-a-date,Australia,PRD-101,CloudCore Compute Node,Cloud Infrastructure,5,1228.57,6142.85,4034.00,2108.85
+ORD-2024-10080,2024-04-25,Australia,PRD-403,Endpoint Vault Guard,Cybersecurity,12,519.11,6229.32,2526.59,3702.73
+ORD-2024-10081,2024-04-04,Australia,PRD-202,Workflow Automation Suite,Enterprise Software,6,793.79,4762.74,1994.26,2768.48
+ORD-2024-10082,2024-04-30,Canada,PRD-401,ZeroTrust Identity Shield,Cybersecurity,15,894.45,13416.75,5746.57,7670.18
+ORD-2024-10083,2024-04-16,India,PRD-301,InsightStream BI Engine,Data Analytics Suites,9,1413.82,12724.38,,7339.66
+ORD-2024-10084,2024-04-21,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,16,510.84,8173.44,3496.38,4677.06
+ORD-2024-10085,2024-04-07,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,16,925.48,14807.68,9098.79,5708.89
+ORD-2024-10086,2024-04-11,Japan,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,4,421.67,1686.68,1063.59,623.09
+ORD-2024-10087,2024-04-08,Australia,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,12,919.37,11032.44,6635.61,4396.83
+ORD-2024-10088,2024-04-14,Canada,PRD-401,ZeroTrust Identity Shield,Cybersecurity,2,911.64,1823.28,828.11,995.17
+ORD-2024-10089,2024-04-06,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,-3,1352.64,10821.12,5223.37,5597.75
+ORD-2024-10090,2024-04-26,Germany,PRD-401,ZeroTrust Identity Shield,Cybersecurity,14,877.30,12282.20,5101.67,7180.53
+ORD-2024-10091,2024-05-28,Canada,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,3,1679.95,5039.85,2274.29,2765.56
+ORD-2024-10092,2024-05-10,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,13,1808.51,23510.63,9881.43,13629.20
+ORD-2024-10090,2024-05-03,Canada,PRD-301,InsightStream BI Engine,Data Analytics Suites,6,1405.96,8435.76,3366.22,5069.54
+ORD-2024-10094,2024-05-31,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,15,1275.09,19126.35,11903.12,7223.23
+ORD-2024-10095,2024-05-16,United Kingdom,PRD-301,InsightStream BI Engine,Data Analytics Suites,3,1394.52,4183.56,1707.96,2475.60
+ORD-2024-10096,2024-05-18,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,14,694.21,9718.94,5643.85,4075.09
+ORD-2024-10097,2024-05-15,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,6,996.10,5976.60,2101.86,3598.94
+ORD-2024-10098,2024-05-07,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,13,1622.24,21089.12,14193.42,6895.70
+ORD-2024-10099,2024-05-07,Australia,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,9,417.31,3755.79,2539.80,1215.99
+ORD-2024-10100,2024-05-14,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,11,1329.27,14621.97,6204.89,8417.08
+ORD-2024-10101,2024-05-08,Japan,PRD-202,Workflow Automation Suite,Enterprise Software,7,775.15,5426.05,2140.70,3285.35
+ORD-2024-10102,2024-05-08,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,9,1189.76,10707.84,7061.53,3646.31
+ORD-2024-10103,2024-05-26,Germany,PRD-403,,Cybersecurity,7,507.41,3551.87,1538.92,2012.95
+ORD-2024-10104,2024-05-23,Singapore,PRD-201,Enterprise ERP Core,Enterprise Software,5,1810.62,9053.10,3657.29,5395.81
+ORD-2024-10105,2024-05-22,Canada,PRD-401,ZeroTrust Identity Shield,Cybersecurity,8,868.49,6947.92,3180.66,3767.26
+ORD-2024-10106,2024-05-05,Japan,PRD-403,Endpoint Vault Guard,Cybersecurity,6,537.99,3227.94,1174.57,2053.37
+ORD-2024-10107,2024-05-11,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,5,1229.84,6149.20,4387.65,1761.55
+ORD-2024-10108,2024-05-03,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,5,1289.96,6449.80,4211.67,2238.13
+ORD-2024-10109,2024-05-06,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,420,1490.00,625800.00,281610.00,344190.00
+ORD-2024-10110,2024-05-15,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,13,1215.82,15805.66,10294.93,5510.73
+ORD-2024-10111,2024-05-23,United States,PRD-202,Workflow Automation Suite,Enterprise Software,15,819.05,12285.75,5262.48,7023.27
+ORD-2024-10112,2024-05-12,United Kingdom,PRD-203,Supply Chain Sync Pro,Enterprise Software,6,1153.02,6918.12,3387.20,3530.92
+ORD-2024-10113,2024-05-21,United Kingdom,PRD-203,Supply Chain Sync Pro,Enterprise Software,13,1130.51,14696.63,6891.96,7804.67
+ORD-2024-10114,2024-06-26,Japan,PRD-102,Elastic Storage Vault,Cloud Infrastructure,3,677.07,2031.21,1099.19,932.02
+ORD-2024-10115,2024-06-07,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,8,695.61,5564.88,3321.95,2242.93
+ORD-2024-10116,2024-06-09,,PRD-202,Workflow Automation Suite,Enterprise Software,15,797.74,11966.10,4659.01,7307.09
+ORD-2024-10117,2024-06-21,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,7,1705.06,11935.42,5388.97,6546.45
+ORD-2024-10118,2024-06-05,India,PRD-402,SIEM Threat Telemetry,Cybersecurity,9,1367.89,12311.01,5780.18,6530.83
+ORD-2024-10119,2024-06-05,United States,PRD-402,SIEM Threat Telemetry,,7,1403.30,9823.10,4529.02,5294.08
+ORD-2024-10120,2024-06-07,Australia,PRD-403,Endpoint Vault Guard,Cybersecurity,5,521.79,2608.95,973.00,1635.95
+ORD-2024-10121,2024-06-11,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,3,1184.31,3552.93,2369.36,1183.57
+ORD-2024-10122,2024-06-11,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,2,1638.21,3276.42,1365.48,1910.94
+ORD-2024-10123,2024-06-21,Australia,PRD-403,Endpoint Vault Guard,Cybersecurity,15,511.50,7672.50,2828.02,4844.48
+ORD-2024-10124,2024-06-03,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,8,1612.00,12896.00,8723.54,4172.46
+ORD-2024-10125,2024-02-30,Australia,PRD-101,CloudCore Compute Node,Cloud Infrastructure,9,1228.25,11054.25,6643.78,4410.47
+ORD-2024-10126,2024-06-24,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,2,1582.73,3165.46,2247.92,917.54
+ORD-2024-10127,2024-06-29,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,13,513.87,6680.31,2504.79,4175.52
+ORD-2024-10128,2024-06-30,India,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,11,1623.36,17856.96,8054.72,9802.24
+ORD-2024-10129,2024-06-15,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,6,666.92,4001.52,2365.42,1636.10
+ORD-2024-10130,2024-06-21,United States,PRD-401,ZeroTrust Identity Shield,Cybersecurity,12,899.56,10794.72,4507.41,6287.31
+ORD-2024-10131,2024-06-19,Germany,PRD-203,Supply Chain Sync Pro,Enterprise Software,14,1130.64,15828.96,7893.08,7935.88
+ORD-2024-10132,2024-06-01,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,5,1103.92,5969.85,2375.88,3143.72
+ORD-2024-10133,2024-06-26,Australia,PRD-201,Enterprise ERP Core,Enterprise Software,3,1858.47,5575.41,2584.78,2990.63
+ORD-2024-10134,2024-06-22,Germany,PRD-403,Endpoint Vault Guard,Cybersecurity,7,530.36,3712.52,1347.51,2365.01
+ORD-2024-10135,2024-06-30,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,12,1004.78,12057.36,4707.64,7349.72
+ORD-2024-10136,2024-07-08,Japan,PRD-502,Rackmount Fiber Switch,Hardware & Edge,11,1215.20,13367.20,9126.09,4241.11
+ORD-2024-10137,2024-07-17,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,13,1398.13,18175.69,7932.62,10243.07
+ORD-2024-10137,2024-07-03,Canada,PRD-202,Workflow Automation Suite,Enterprise Software,12,792.66,9511.92,3571.57,5940.35
+ORD-2024-10139,2024-07-25,Singapore,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,9,1619.41,14574.69,5553.01,9021.68
+ORD-2024-10140,2024-07-08,Singapore,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,10,1591.94,15919.40,6914.74,9004.66
+ORD-2024-10141,2024-07-15,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,13,1237.06,16081.78,10234.95,5846.83
+ORD-2024-10142,2024-07-14,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,10,933.29,9332.90,5582.49,3750.41
+ORD-2024-10143,2024-07-11,Atlantis,PRD-402,SIEM Threat Telemetry,Cybersecurity,4,1343.83,5375.32,2303.97,3071.35
+ORD-2024-10144,2024-07-19,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1365.64,10925.12,5097.32,5827.80
+ORD-2024-10145,2024-07-12,United States,PRD-401,ZeroTrust Identity Shield,Cybersecurity,16,911.94,14591.04,5863.32,8727.72
+ORD-2024-10146,2024-07-21,Canada,PRD-402,SIEM Threat Telemetry,Cybersecurity,4,1330.65,5322.60,2247.26,3075.34
+ORD-2024-10147,2024-07-20,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,-4,1413.53,19789.42,8146.02,11643.40
+ORD-2024-10148,2024-07-12,India,PRD-202,Workflow Automation Suite,Enterprise Software,15,819.86,12297.90,5404.42,6893.48
+ORD-2024-10149,2024-07-03,India,PRD-202,Workflow Automation Suite,Enterprise Software,2,786.00,1572.00,586.73,985.27
+ORD-2024-10150,2024-07-17,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,13,1410.27,18333.51,8662.75,9670.76
+ORD-2024-10151,2024-07-04,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,13,1606.40,20883.20,14171.73,6711.47
+ORD-2024-10152,2024-07-07,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,12,667.60,8011.20,4481.08,3530.12
+ORD-2024-10153,2024-07-13,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,9,1884.62,16961.58,7105.33,9856.25
+ORD-2024-10154,2024-07-19,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,11,1452.89,15981.79,6750.39,9231.40
+ORD-2024-10155,2024-07-24,India,PRD-103,,Cloud Infrastructure,13,940.23,12222.99,6748.75,5474.24
+ORD-2024-10156,2024-07-29,Singapore,PRD-401,ZeroTrust Identity Shield,Cybersecurity,12,890.33,10683.96,4377.49,6306.47
+ORD-2024-10157,2024-07-13,Australia,PRD-201,Enterprise ERP Core,Enterprise Software,8,1902.08,15216.64,6708.85,8507.79
+ORD-2024-10158,2024-07-21,Canada,PRD-201,Enterprise ERP Core,Enterprise Software,12,1897.86,22774.32,10552.72,12221.60
+ORD-2024-10159,2024-08-16,Singapore,PRD-203,Supply Chain Sync Pro,Enterprise Software,7,1105.98,7741.86,3908.70,3833.16
+ORD-2024-10160,2024-08-02,Australia,PRD-502,Rackmount Fiber Switch,Hardware & Edge,10,1208.07,12080.70,8678.55,4012.15
+ORD-2024-10161,2024-08-30,Germany,PRD-403,Endpoint Vault Guard,Cybersecurity,3,537.51,1612.53,608.67,1003.86
+ORD-2024-10162,2024-08-05,United Kingdom,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,5,976.59,4882.95,1581.84,3301.11
+ORD-2024-10163,2024-08-07,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,2,1376.15,2752.30,1339.83,1412.47
+ORD-2024-10164,2024-08-01,   ,PRD-402,SIEM Threat Telemetry,Cybersecurity,4,1386.93,5547.72,2413.14,3134.58
+ORD-2024-10165,2024-08-19,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,9,1798.45,16186.05,6683.85,9502.20
+ORD-2024-10166,2024-08-30,Japan,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,5,1014.27,5071.35,1765.18,3306.17
+ORD-2024-10167,2024-08-22,Canada,PRD-402,SIEM Threat Telemetry,Cybersecurity,13,1365.57,17752.41,8280.08,9472.33
+ORD-2024-10168,2024-08-07,Singapore,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,9,1615.28,14537.52,6367.88,8169.64
+ORD-2024-10169,2024-08-24,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,15,1178.14,17672.10,12531.46,5140.64
+ORD-2024-10170,2024-08-08,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,9,962.98,8666.82,3262.47,5404.35
+ORD-2024-10171,2024-08-03,Canada,PRD-101,CloudCore Compute Node,Cloud Infrastructure,15,1299.84,19497.60,12423.26,7074.34
+ORD-2024-10172,2024-08-06,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,16,928.03,14848.48,8761.45,6087.03
+ORD-2024-10173,2024-08-22,Germany,PRD-302,Lakehouse Query Accelerator,Legacy-Test,13,1696.94,22060.22,9311.99,12748.23
+ORD-2024-10174,2024-08-13,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,2,1572.47,3144.94,2204.95,939.99
+ORD-2024-10175,2024-08-14,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,4,1173.30,4693.20,3240.20,1453.00
+ORD-2024-10176,2024-08-14,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,9,1119.31,10073.79,4747.96,5325.83
+ORD-2024-10177,2024-08-24,United Kingdom,PRD-202,Workflow Automation Suite,Enterprise Software,9,778.24,7004.16,2975.35,4028.81
+ORD-2024-10178,2024-08-13,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,8,536.17,4289.36,1784.42,2504.94
+ORD-2024-10179,2024-08-20,United States,PRD-401,ZeroTrust Identity Shield,Cybersecurity,6,892.01,5352.06,2381.88,2970.18
+ORD-2024-10180,99/99/2025,India,PRD-301,InsightStream BI Engine,Data Analytics Suites,4,1474.35,5897.40,2220.83,3676.57
+ORD-2024-10181,2024-09-07,Singapore,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,2,442.33,884.66,580.45,304.21
+ORD-2024-10182,2024-09-29,Australia,PRD-101,CloudCore Compute Node,Cloud Infrastructure,7,1217.72,8524.04,5597.24,2926.80
+ORD-2024-10183,2024-09-01,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,11,968.50,10653.50,3779.37,6874.13
+ORD-2024-10184,2024-09-09,United Kingdom,PRD-203,Supply Chain Sync Pro,Enterprise Software,6,1160.96,6965.76,3295.41,3670.35
+ORD-2024-10185,2024-09-13,Singapore,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,2,964.85,1929.70,653.58,1276.12
+ORD-2024-10184,2024-09-27,United Kingdom,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,7,1655.25,11586.75,4627.01,6959.74
+ORD-2024-10187,2024-09-25,Germany,PRD-203,Supply Chain Sync Pro,Enterprise Software,8,1163.50,9308.00,4079.80,5228.20
+ORD-2024-10188,2024-09-20,United Kingdom,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,16,443.19,7091.04,4796.49,2294.55
+ORD-2024-10189,2024-09-29,India,PRD-403,Endpoint Vault Guard,Cybersecurity,9,538.87,4849.83,1843.11,3006.72
+ORD-2024-10190,2024-09-09,India,PRD-502,Rackmount Fiber Switch,Hardware & Edge,16,1201.78,19228.48,13143.76,6084.72
+ORD-2024-10191,2024-09-02,India,PRD-301,InsightStream BI Engine,Data Analytics Suites,12,1458.78,17505.36,7400.48,10104.88
+ORD-2024-10192,2024-09-03,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,10,1396.77,13967.70,6551.97,7415.73
+ORD-2024-10193,2024-09-25,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,6,1163.08,6978.48,3382.35,3596.13
+ORD-2024-10194,2024-09-10,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,10,1827.13,18271.30,7452.07,10819.23
+ORD-2024-10195,2024-09-13,Canada,PRD-203,Supply Chain Sync Pro,Enterprise Software,9,1102.62,9603.08,4596.67,5326.91
+ORD-2024-10196,2024-09-27,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,16,1632.06,26112.96,18219.53,7893.43
+ORD-2024-10197,2024-09-18,Australia,PRD-202,Workflow Automation Suite,Enterprise Software,9,802.98,7226.82,3013.01,4213.81
+ORD-2024-10198,2024-09-13,Australia,PRD-501,Edge Telemetry Appliance,Hardware & Edge,5,1602.37,8011.85,5806.12,2205.73
+ORD-2024-10199,2024-09-23,Germany,PRD-401,ZeroTrust Identity Shield,Cybersecurity,15,898.68,13480.20,5518.35,7961.85
+ORD-2024-10200,2024-09-14,United States,PRD-203,Supply Chain Sync Pro,Enterprise Software,530,1490.00,789700.00,355365.00,434335.00
+ORD-2024-10201,2024-09-10,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,16,1801.31,28820.96,13299.19,15521.77
+ORD-2024-10202,2024-09-09,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,7,1408.86,9862.02,4524.79,5337.23
+ORD-2024-10203,2024-09-25,India,PRD-502,Rackmount Fiber Switch,Hardware & Edge,8,1185.82,9486.56,6486.85,2999.71
+ORD-2024-10204,2024-10-17,Canada,PRD-203,Supply Chain Sync Pro,Enterprise Software,13,1092.47,14202.11,6991.67,7210.44
+ORD-2024-10205,2024-10-24,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,-5,945.96,16081.32,10117.72,5963.60
+ORD-2024-10206,2024-10-20,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,3,1328.83,3986.49,1918.82,2067.67
+ORD-2024-10207,2024-10-23,Canada,PRD-102,Elastic Storage Vault,Cloud Infrastructure,3,700.12,2100.36,1198.77,901.59
+ORD-2024-10208,2024-10-07,Singapore,PRD-403,Endpoint Vault Guard,Cybersecurity,14,533.89,7474.46,3106.97,4367.49
+ORD-2024-10209,2024-10-20,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,19,676.92,12861.48,7282.26,5579.22
+ORD-2024-10210,2024-10-21,India,PRD-202,Workflow Automation Suite,Enterprise Software,12,788.94,9467.28,3686.07,5781.21
+ORD-2024-10211,2024-10-13,Japan,PRD-403,Endpoint Vault Guard,Cybersecurity,15,513.22,7698.30,2906.86,4791.44
+ORD-2024-10212,2024-10-10,,PRD-301,InsightStream BI Engine,Data Analytics Suites,12,1424.92,17099.04,6634.55,10464.49
+ORD-2024-10213,2024-10-30,Japan,PRD-501,Edge Telemetry Appliance,Hardware & Edge,11,1532.89,16861.79,11510.59,5351.20
+ORD-2024-10214,2024-10-17,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,9,1202.57,10823.13,7096.22,3726.91
+ORD-2024-10215,2024-10-09,Canada,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,3,974.90,2924.70,1145.67,1779.03
+ORD-2024-10216,2024-10-11,Singapore,PRD-402,SIEM Threat Telemetry,Cybersecurity,7,1411.66,9881.62,4788.13,5093.49
+ORD-2024-10217,2024-10-05,United States,PRD-201,Enterprise ERP Core,Enterprise Software,10,1857.60,18576.00,8162.09,10413.91
+ORD-2024-10218,2024-10-16,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,14,1380.79,19331.06,9616.59,9714.47
+ORD-2024-10219,2024-10-01,Singapore,PRD-501,Edge Telemetry Appliance,Hardware & Edge,6,1622.05,9732.30,7059.59,2672.71
+ORD-2024-10220,2024-10-02,Germany,PRD-303,,Data Analytics Suites,10,964.28,9642.80,3215.92,6426.88
+ORD-2024-10221,2024-10-07,Australia,PRD-401,ZeroTrust Identity Shield,Cybersecurity,3,920.13,2760.39,1109.41,1650.98
+ORD-2024-10222,2024-10-29,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,17,1384.18,23531.06,10684.34,12846.72
+ORD-2024-10223,2024-10-11,India,PRD-202,Workflow Automation Suite,Enterprise Software,5,810.01,4050.05,1822.12,2227.93
+ORD-2024-10224,2024-10-22,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,10,1842.24,18422.40,7847.57,10299.03
+ORD-2024-10225,2024-10-31,Japan,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,18,956.49,17216.82,9922.95,7293.87
+ORD-2024-10226,2024-11-11,India,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,12,1630.89,19570.68,7502.01,12068.67
+ORD-2024-10227,2024-11-10,United Kingdom,PRD-102,Elastic Storage Vault,Cloud Infrastructure,4,681.48,2725.92,1477.88,1248.04
+ORD-2024-10228,2024-11-18,Canada,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,14,1654.32,23160.48,10251.92,12908.56
+ORD-2024-10229,2024-11-02,Singapore,PRD-102,Elastic Storage Vault,Cloud Infrastructure,7,667.23,4670.61,2486.11,2184.50
+ORD-2024-10227,2024-11-29,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,10,1879.53,18795.30,7813.03,10982.27
+ORD-2024-10231,2024-11-27,Japan,PRD-301,InsightStream BI Engine,Data Analytics Suites,17,1457.62,24779.54,10349.99,14429.55
+ORD-2024-10232,2024-11-12,Singapore,PRD-301,InsightStream BI Engine,Data Analytics Suites,16,1452.94,23247.04,8835.19,14411.85
+ORD-2024-10233,2024-11-16,Japan,PRD-301,InsightStream BI Engine,Data Analytics Suites,18,1421.43,25585.74,9203.87,16381.87
+ORD-2024-10234,2024-11-26,United States,PRD-202,Workflow Automation Suite,Enterprise Software,16,816.57,13065.12,5656.55,7408.57
+ORD-2024-10235,2024-11-05,Germany,PRD-101,CloudCore Compute Node,Cloud Infrastructure,19,1269.05,24111.95,15679.06,8432.89
+ORD-2024-10236,2024-11-01,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,17,1162.47,19761.99,13492.66,6269.33
+ORD-2024-10237,,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,16,663.99,10623.84,6191.90,4431.94
+ORD-2024-10238,2024-11-06,Canada,PRD-401,ZeroTrust Identity Shield,Cybersecurity,10,903.18,9031.80,3790.21,5241.59
+ORD-2024-10239,2024-11-10,United Kingdom,PRD-403,Endpoint Vault Guard,Cybersecurity,2,531.70,1063.40,411.46,651.94
+ORD-2024-10240,2024-11-01,Australia,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,4,434.45,1737.80,1194.99,542.81
+ORD-2024-10241,2024-11-16,Germany,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,6,965.69,5794.14,2283.39,3510.75
+ORD-2024-10242,2024-11-15,Singapore,PRD-303,Data Quality Auditor Pro,N/A,16,976.58,15625.28,5525.68,10099.60
+ORD-2024-10243,2024-11-28,United Kingdom,PRD-102,Elastic Storage Vault,Cloud Infrastructure,12,703.53,8442.36,4605.34,3837.02
+ORD-2024-10244,2024-11-22,India,PRD-401,ZeroTrust Identity Shield,Cybersecurity,19,890.49,16919.31,7171.35,9747.96
+ORD-2024-10245,2024-11-03,Germany,PRD-401,ZeroTrust Identity Shield,Cybersecurity,15,925.19,13877.85,6426.66,7451.19
+ORD-2024-10246,2024-11-19,United Kingdom,PRD-203,Supply Chain Sync Pro,Enterprise Software,6,1129.40,6776.40,3349.67,3426.73
+ORD-2024-10247,2024-11-02,United Kingdom,PRD-301,InsightStream BI Engine,Data Analytics Suites,5,1392.99,6964.95,2563.42,4401.53
+ORD-2024-10248,2024-11-18,Japan,PRD-501,Edge Telemetry Appliance,Hardware & Edge,10,1625.16,16251.60,11543.22,4708.38
+ORD-2024-10249,2024-12-06,United Kingdom,PRD-101,CloudCore Compute Node,Cloud Infrastructure,16,1257.97,20127.52,11741.65,8385.87
+ORD-2024-10250,2024-12-31,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,17,1161.73,20199.66,9838.26,9911.15
+ORD-2024-10251,2024-12-01,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,13,981.03,12753.39,4495.88,8257.51
+ORD-2024-10252,2024-12-24,United States,PRD-201,Enterprise ERP Core,Enterprise Software,3,1828.30,5484.90,2405.07,3079.83
+ORD-2024-10253,2024-12-18,India,PRD-402,SIEM Threat Telemetry,Cybersecurity,18,1345.93,24226.74,11121.61,13105.13
+ORD-2024-10254,2024-12-02,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,7,683.91,4787.37,2589.74,2197.63
+ORD-2024-10255,2024-12-08,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,10,1543.52,15435.20,10700.85,4734.35
+ORD-2024-10256,2024-12-14,Australia,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,18,1664.17,29955.06,12941.87,17013.19
+ORD-2024-10257,2024-12-05,Singapore,PRD-201,Enterprise ERP Core,Enterprise Software,10,1923.86,19238.60,7978.46,11260.14
+ORD-2024-10258,2024-12-16,United Kingdom,PRD-102,Elastic Storage Vault,Cloud Infrastructure,9,660.09,5940.81,3302.29,2638.52
+ORD-2024-10259,2024-12-04,   ,PRD-401,ZeroTrust Identity Shield,Cybersecurity,16,878.46,14055.36,6389.06,7666.30
+ORD-2024-10260,2024-12-30,Japan,PRD-301,InsightStream BI Engine,Data Analytics Suites,12,1457.99,17495.88,6661.35,10834.53
+ORD-2024-10261,2024-12-03,Japan,PRD-201,Enterprise ERP Core,Enterprise Software,7,1816.80,12717.60,5719.07,6998.53
+ORD-2024-10262,2024-12-30,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,11,427.44,4701.84,3059.59,1642.25
+ORD-2024-10263,2024-12-12,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,9,NULL,16241.94,6595.54,9646.40
+ORD-2024-10264,2024-12-12,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,2,973.05,1946.10,747.86,1198.24
+ORD-2024-10265,2024-12-29,Japan,PRD-101,CloudCore Compute Node,Cloud Infrastructure,7,1268.33,8878.31,5853.83,3024.48
+ORD-2024-10266,2024-12-21,Singapore,PRD-101,CloudCore Compute Node,Cloud Infrastructure,13,1234.57,16049.41,10178.93,5870.48
+ORD-2024-10267,2024-12-04,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,13,426.09,5539.17,3614.59,1924.58
+ORD-2024-10268,2024-12-30,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,-6,1171.16,15225.08,10063.55,5161.53
+ORD-2024-10269,2024-12-24,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,8,1636.42,13091.36,8992.98,4098.38
+ORD-2024-10270,2024-12-10,Canada,PRD-101,CloudCore Compute Node,Cloud Infrastructure,3,1279.81,3839.43,2297.39,1542.04
+ORD-2025-10271,2025-01-08,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,9,1406.25,12656.25,4977.33,7678.92
+ORD-2025-10272,2025-01-15,Japan,PRD-502,Rackmount Fiber Switch,Hardware & Edge,11,1155.43,12709.73,8794.99,3914.74
+ORD-2025-10273,2025-01-12,India,PRD-101,CloudCore Compute Node,Cloud Infrastructure,4,1266.88,5067.52,3135.22,1932.30
+ORD-2025-10274,2025-01-15,Australia,PRD-501,Edge Telemetry Appliance,Hardware & Edge,12,1632.75,19593.00,14017.39,5575.61
+ORD-2025-10274,2025-01-04,Canada,PRD-301,InsightStream BI Engine,Data Analytics Suites,10,1451.88,14518.80,5708.96,8809.84
+ORD-2025-10276,2025-01-27,Germany,PRD-403,Endpoint Vault Guard,Cybersecurity,13,517.68,6729.84,2627.14,4102.70
+ORD-2025-10277,2025-01-05,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,6,1403.05,8418.30,4151.41,4266.89
+ORD-2025-10278,2025-01-27,Canada,PRD-402,SIEM Threat Telemetry,Cybersecurity,9,1344.56,12101.04,5215.01,6886.03
+ORD-2025-10279,2025-01-21,Japan,PRD-201,Enterprise ERP Core,Enterprise Software,14,1853.73,25952.22,11253.26,14698.96
+ORD-2025-10280,2025-01-05,Australia,PRD-203,Supply Chain Sync Pro,Enterprise Software,4,1098.68,4394.72,2190.26,2204.46
+ORD-2025-10281,2025-01-21,United Kingdom,PRD-301,InsightStream BI Engine,Data Analytics Suites,15,1472.62,22089.30,9486.63,12602.67
+ORD-2025-10282,2025-01-01,United Kingdom,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,2,1652.60,3305.20,1478.21,1826.99
+ORD-2025-10283,2025-01-31,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,5,677.40,3387.00,1870.48,1516.52
+ORD-2025-10284,2025-01-23,India,PRD-202,,Enterprise Software,14,789.34,11050.76,4613.38,6437.38
+ORD-2025-10285,2025-01-25,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,3,1374.33,4122.99,1875.11,2247.88
+ORD-2025-10286,2025-01-06,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,13,1816.18,23610.34,10830.49,12779.85
+ORD-2025-10287,2025-01-09,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,6,961.68,5770.08,1986.96,3783.12
+ORD-2025-10288,2025-01-25,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,5,1542.93,7714.65,5498.06,2826.59
+ORD-2025-10289,2025-01-05,United Kingdom,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,3,444.21,1332.63,824.11,508.52
+ORD-2025-10290,2025-01-23,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,4,1853.26,7413.04,2990.08,4422.96
+ORD-2025-10291,2025-01-01,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1367.34,10938.72,5020.80,5917.92
+ORD-2025-10292,2025-00-12,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,6,1143.71,6862.26,3001.61,3860.65
+ORD-2025-10293,2025-01-12,United Kingdom,PRD-401,ZeroTrust Identity Shield,Cybersecurity,6,863.86,5183.16,2195.27,2987.89
+ORD-2025-10294,2025-02-23,Australia,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,16,1664.13,26626.08,10795.38,15830.70
+ORD-2025-10295,2025-02-20,Australia,PRD-301,InsightStream BI Engine,Data Analytics Suites,3,1453.80,4361.40,1775.47,2585.93
+ORD-2025-10296,2025-02-04,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,9,980.38,8823.42,3037.57,5785.85
+ORD-2025-10297,2025-02-28,Japan,PRD-502,Rackmount Fiber Switch,Hardware & Edge,14,1228.39,17197.46,12348.09,4849.37
+ORD-2025-10298,2025-02-26,Japan,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,6,968.36,5810.16,2072.87,3737.29
+ORD-2025-10299,2025-02-05,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,640,1490.00,953600.00,429120.00,524480.00
+ORD-2025-10300,2025-02-11,Germany,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,3,432.27,1296.81,825.38,471.43
+ORD-2025-10301,2025-02-22,United Kingdom,PRD-403,Endpoint Vault Guard,Cybersecurity,9,533.46,4801.14,2090.21,2710.93
+ORD-2025-10302,2025-02-08,Singapore,PRD-301,InsightStream BI Engine,Data Analytics Suites,13,1465.22,19047.86,7141.18,11906.68
+ORD-2025-10303,2025-02-05,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,4,995.47,3981.88,1416.60,2565.28
+ORD-2025-10304,2025-02-26,United States,PRD-401,ZeroTrust Identity Shield,Cybersecurity,13,912.78,11866.14,5186.22,6679.92
+ORD-2025-10305,2025-02-11,,PRD-202,Workflow Automation Suite,Enterprise Software,15,776.17,11642.55,4589.98,7052.57
+ORD-2025-10306,2025-02-22,United Kingdom,PRD-102,Elastic Storage Vault,Cloud Infrastructure,14,705.99,9883.86,5536.88,4346.98
+ORD-2025-10307,2025-02-02,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,14,977.08,13679.12,7784.48,5894.64
+ORD-2025-10308,2025-02-02,India,PRD-402,SIEM Threat Telemetry,Cybersecurity,4,1374.05,5496.20,2690.28,2805.92
+ORD-2025-10309,2025-02-27,Singapore,PRD-403,Endpoint Vault Guard,Cybersecurity,7,540.40,3782.80,1510.77,2272.03
+ORD-2025-10310,2025-02-25,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,15,1226.08,18391.20,11507.63,6883.57
+ORD-2025-10311,2025-02-03,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,9,1458.07,13122.63,4728.56,8394.07
+ORD-2025-10312,2025-02-08,United Kingdom,PRD-101,CloudCore Compute Node,Cloud Infrastructure,13,1292.92,16807.96,10570.27,6237.69
+ORD-2025-10313,2025-02-17,Japan,PRD-401,ZeroTrust Identity Shield,Cybersecurity,14,865.08,11790.62,5614.36,6496.76
+ORD-2025-10314,2025-02-18,Singapore,PRD-102,Elastic Storage Vault,Cloud Infrastructure,13,684.06,8892.78,5176.83,3715.95
+ORD-2025-10315,2025-02-24,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,3,1334.14,4002.42,1958.26,2044.16
+ORD-2025-10316,2025-03-11,United Kingdom,PRD-101,CloudCore Compute Node,Cloud Infrastructure,4,1261.41,5045.64,3091.45,1954.19
+ORD-2025-10317,2025-03-23,India,PRD-402,SIEM Threat Telemetry,Cybersecurity,17,1383.03,23511.51,11707.33,11804.18
+ORD-2025-10318,2025-03-05,United States,PRD-202,Workflow Automation Suite,Enterprise Software,15,819.92,12298.80,5348.60,6950.20
+ORD-2025-10317,2025-03-14,Canada,PRD-501,Edge Telemetry Appliance,Hardware & Edge,16,1627.26,26036.16,18808.81,7227.35
+ORD-2025-10320,2025-03-06,United States,PRD-401,ZeroTrust Identity Shield,Cybersecurity,12,867.62,10411.44,4860.40,5551.04
+ORD-2025-10321,2025-03-19,Australia,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,2,936.65,1873.30,1060.78,812.52
+ORD-2025-10322,2025-03-01,United Kingdom,PRD-203,Supply Chain Sync Pro,Enterprise Software,5,1130.24,5651.20,2510.52,3140.68
+ORD-2025-10323,2025-03-20,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,17,1595.82,27128.94,11434.29,15694.65
+ORD-2025-10324,2025-03-25,Germany,PRD-402,SIEM Threat Telemetry,Cybersecurity,2,1324.83,2649.66,1176.45,1473.21
+ORD-2025-10325,2025-03-07,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,17,1397.75,23761.75,10918.34,12843.41
+ORD-2025-10326,2025-03-01,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,10,679.44,6794.40,3601.67,3192.73
+ORD-2025-10327,2025-03-07,United States,PRD-201,Enterprise ERP Core,Deprecated,4,1806.25,7225.00,3285.40,3939.60
+ORD-2025-10328,2025-03-04,Canada,PRD-402,SIEM Threat Telemetry,Cybersecurity,17,1360.66,23131.22,10611.30,12519.92
+ORD-2025-10329,2025-03-15,Japan,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,4,421.55,1686.20,1131.84,554.36
+ORD-2025-10330,2025-03-08,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,10,1438.98,14389.80,5855.97,8533.83
+ORD-2025-10331,2025-03-12,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,18,1282.15,23078.70,14572.47,8506.23
+ORD-2025-10332,2025-03-01,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,17,1540.12,26182.04,18721.67,7460.37
+ORD-2025-10333,2025-03-07,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,6,1183.64,7101.84,4855.37,2246.47
+ORD-2025-10334,2025-03-24,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,-7,1227.95,19647.20,12260.98,7386.22
+ORD-2025-10335,2025-03-07,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,3,1404.56,4213.68,1925.17,2288.51
+ORD-2025-10336,2025-03-15,Japan,PRD-202,Workflow Automation Suite,Enterprise Software,18,798.73,14377.14,5454.13,8923.01
+ORD-2025-10337,2025-03-09,India,PRD-102,Elastic Storage Vault,Cloud Infrastructure,7,703.17,4922.19,2775.20,2146.99
+ORD-2025-10338,2025-03-07,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,11,1402.66,15429.26,5450.83,9978.43
+ORD-2025-10339,2025-04-29,Canada,PRD-501,Edge Telemetry Appliance,Hardware & Edge,5,1622.71,8113.55,5957.94,2155.61
+ORD-2025-10340,2025-04-12,India,PRD-102,Elastic Storage Vault,Cloud Infrastructure,17,674.74,11470.58,6724.77,4745.81
+ORD-2025-10341,2025-04-08,Canada,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,2,420.20,840.40,567.64,272.76
+ORD-2025-10342,2025-04-15,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,12,958.45,11501.40,7168.90,4056.70
+ORD-2025-10343,2025-04-08,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,5,1214.46,6072.30,4275.89,1796.41
+ORD-2025-10344,2025-04-28,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,6,1341.92,8051.52,3881.57,4169.95
+ORD-2025-10345,2025-04-01,India,PRD-301,InsightStream BI Engine,Data Analytics Suites,11,1465.71,16122.81,5729.00,10393.81
+ORD-2025-10346,2025-04-28,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,4,993.70,3974.80,1422.11,2552.69
+ORD-2025-10347,2025-04-28,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,5,1177.65,5888.25,4085.12,1803.13
+ORD-2025-10348,TBD,Germany,PRD-101,CloudCore Compute Node,Cloud Infrastructure,17,1295.18,22018.06,13030.48,8987.58
+ORD-2025-10349,2025-04-13,Australia,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1409.10,11272.80,5366.29,5906.51
+ORD-2025-10350,2025-04-10,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,16,687.81,11004.96,5916.03,5088.93
+ORD-2025-10351,2025-04-22,India,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,10,446.48,4464.80,2922.13,1542.67
+ORD-2025-10352,2025-04-05,United States,PRD-201,Enterprise ERP Core,Enterprise Software,12,1809.81,21717.72,9354.16,12363.56
+ORD-2025-10353,2025-04-23,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,9,1596.81,14371.29,9927.22,4444.07
+ORD-2025-10354,2025-04-30,United States,PRD-501,Edge Telemetry Appliance,Hardware & Edge,12,1615.20,19382.40,14248.91,5133.49
+ORD-2025-10355,2025-04-12,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,11,1223.98,13463.78,9298.47,4165.31
+ORD-2025-10356,2025-04-02,United States,PRD-103,,Cloud Infrastructure,8,938.72,7509.76,4352.00,3157.76
+ORD-2025-10357,2025-04-02,United States,PRD-201,Enterprise ERP Core,Enterprise Software,13,1825.74,23734.62,9914.79,13819.83
+ORD-2025-10358,2025-04-15,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,6,664.74,3988.44,2248.78,1739.66
+ORD-2025-10359,2025-04-02,Australia,PRD-403,Endpoint Vault Guard,Cybersecurity,15,526.53,7897.95,3267.62,4630.33
+ORD-2025-10360,2025-04-03,India,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,15,1658.82,24882.30,10758.66,14123.64
+ORD-2025-10361,2025-05-20,India,PRD-401,ZeroTrust Identity Shield,Cybersecurity,16,868.39,13894.24,5427.62,8466.62
+ORD-2025-10362,2025-05-04,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,7,539.60,3777.20,1419.31,2357.89
+ORD-2025-10363,2025-05-20,Australia,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,15,424.65,6369.75,4181.54,2188.21
+ORD-2025-10364,2025-05-12,India,PRD-101,CloudCore Compute Node,Cloud Infrastructure,17,1250.21,21253.57,12993.16,8260.41
+ORD-2025-10365,2025-05-31,Canada,PRD-101,CloudCore Compute Node,Cloud Infrastructure,9,1248.09,11232.81,6600.10,4632.71
+ORD-2025-10363,2025-05-25,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,4,683.49,2733.96,1488.12,1245.84
+ORD-2025-10367,2025-05-16,United States,PRD-203,Supply Chain Sync Pro,Enterprise Software,3,1091.23,3273.69,1608.14,1665.55
+ORD-2025-10368,2025-05-09,Germany,PRD-101,CloudCore Compute Node,Cloud Infrastructure,9,1283.07,11547.63,6846.56,4701.07
+ORD-2025-10369,2025-05-13,United Kingdom,PRD-401,ZeroTrust Identity Shield,Cybersecurity,13,896.24,11651.12,4870.28,6780.84
+ORD-2025-10370,2025-05-15,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,8,1401.95,11215.60,,7178.52
+ORD-2025-10371,2025-05-26,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,12,680.09,8161.08,4872.54,3288.54
+ORD-2025-10372,2025-05-12,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,14,1809.87,25338.18,10847.44,14490.74
+ORD-2025-10373,2025-05-10,Australia,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,18,1640.21,29523.78,12211.07,17312.71
+ORD-2025-10374,2025-05-08,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,16,1002.42,16038.72,5164.86,10873.86
+ORD-2025-10375,2025-05-17,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,10,1176.24,11762.40,7980.66,3781.74
+ORD-2025-10376,2025-05-04,United Kingdom,PRD-403,Endpoint Vault Guard,Cybersecurity,3,538.96,1616.88,603.17,1013.71
+ORD-2025-10377,2025-05-17,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,18,1205.49,22149.07,15480.92,6217.90
+ORD-2025-10378,2025-05-23,Australia,PRD-203,Supply Chain Sync Pro,Enterprise Software,10,1114.92,11149.20,4922.93,6226.27
+ORD-2025-10379,2025-05-19,United Kingdom,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,8,425.88,3407.04,2301.08,1105.96
+ORD-2025-10380,2025-05-25,Australia,PRD-202,Workflow Automation Suite,Enterprise Software,17,786.89,13377.13,5322.15,8054.98
+ORD-2025-10381,2025-05-02,Singapore,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,18,965.84,17385.12,10679.94,6705.18
+ORD-2025-10382,2025-05-19,India,PRD-401,ZeroTrust Identity Shield,Cybersecurity,750,1490.00,1117500.00,502875.00,614625.00
+ORD-2025-10383,2025-05-24,Australia,PRD-501,Edge Telemetry Appliance,Hardware & Edge,9,1633.45,14701.05,10830.63,3870.42
+ORD-2025-10384,2025-06-23,Canada,PRD-101,CloudCore Compute Node,Cloud Infrastructure,5,1268.82,6344.10,4133.18,2210.92
+ORD-2025-10385,2025-06-08,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,9,1018.17,9163.53,3643.17,5520.36
+ORD-2025-10386,2025-06-24,Singapore,PRD-502,Rackmount Fiber Switch,Hardware & Edge,13,1190.65,15478.45,11006.68,4471.77
+ORD-2025-10387,2025-06-29,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,14,1326.86,18576.04,8120.36,10455.68
+ORD-2025-10388,2025-06-29,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,6,1618.33,9709.98,4366.38,5343.60
+ORD-2025-10389,2025-06-24,Japan,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,6,973.33,5839.98,1869.76,3970.22
+ORD-2025-10390,2025-06-30,   ,PRD-101,CloudCore Compute Node,Cloud Infrastructure,16,1258.54,20136.64,12487.65,7648.99
+ORD-2025-10391,2025-06-18,United Kingdom,PRD-403,Endpoint Vault Guard,Cybersecurity,11,510.62,5616.82,2423.63,3193.19
+ORD-2025-10392,2025-06-02,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,15,537.46,8061.90,3061.62,5000.28
+ORD-2025-10393,2025-06-17,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,13,1693.50,22015.50,9309.90,12705.60
+ORD-2025-10394,2025-06-06,Singapore,PRD-301,InsightStream BI Engine,Data Analytics Suites,4,1391.72,5566.88,2175.30,3391.58
+ORD-2025-10395,2025-06-07,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,4,1623.18,6492.72,2580.81,3911.91
+ORD-2025-10396,2025-06-26,United States,PRD-101,CloudCore Compute Node,Unmapped,15,1270.49,19057.35,12554.89,6502.46
+ORD-2025-10397,2025-06-07,Japan,PRD-403,Endpoint Vault Guard,Cybersecurity,11,515.17,5666.87,2224.01,3442.86
+ORD-2025-10398,2025-06-14,United Kingdom,PRD-102,Elastic Storage Vault,Cloud Infrastructure,14,687.69,9627.66,5512.08,4115.58
+ORD-2025-10399,2025-06-28,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,2,670.09,1340.18,775.12,565.06
+ORD-2025-10400,2025-06-27,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,18,1168.68,21036.24,14543.13,6493.11
+ORD-2025-10401,2025-06-12,Germany,PRD-203,Supply Chain Sync Pro,Enterprise Software,4,1115.80,4463.20,2027.95,2435.25
+ORD-2025-10402,2025-06-11,United Kingdom,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,13,445.13,5786.69,3600.90,2795.79
+ORD-2025-10403,2025-06-13,Japan,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,17,918.98,15622.66,8842.69,6779.97
+ORD-2025-10404,2025-06-19,Germany,PRD-201,Enterprise ERP Core,Enterprise Software,7,1880.48,13163.36,5408.08,7755.28
+ORD-2025-10405,2025-06-19,Australia,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,11,423.36,4656.96,2916.37,1740.59
+ORD-2025-10406,2025-07-23,Germany,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,18,962.94,17332.92,9671.91,7661.01
+ORD-2025-10407,2025-07-02,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,9,1704.67,15342.03,6905.97,8436.06
+ORD-2025-10408,2025-07-06,Japan,PRD-101,CloudCore Compute Node,Cloud Infrastructure,9,1293.61,11642.49,7361.31,4281.18
+ORD-2025-10409,2025-07-16,Japan,PRD-103,,Cloud Infrastructure,10,975.71,9757.10,5820.69,3936.41
+ORD-2025-10410,2025-07-26,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,8,1141.06,9128.48,4018.67,5109.81
+ORD-2025-10411,2025-07-19,India,PRD-502,Rackmount Fiber Switch,Hardware & Edge,18,1179.02,21222.36,14334.61,6887.75
+ORD-2025-10412,2025-07-31,Japan,PRD-402,SIEM Threat Telemetry,Cybersecurity,4,1366.72,5466.88,2440.63,3026.25
+ORD-2025-10412,2025-07-19,United Kingdom,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,17,983.29,16715.93,5874.24,10841.69
+ORD-2025-10414,2025-07-11,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,4,968.53,3874.12,1523.03,2351.09
+ORD-2025-10415,2025-07-21,United States,PRD-401,ZeroTrust Identity Shield,Cybersecurity,18,916.79,16502.22,6624.55,9877.67
+ORD-2025-10416,2025-07-31,United States,PRD-502,Rackmount Fiber Switch,Hardware & Edge,10,1168.97,11689.70,7983.95,3705.75
+ORD-2025-10417,2025-07-03,United States,PRD-201,Enterprise ERP Core,Enterprise Software,12,1904.41,22852.92,9553.49,13299.43
+ORD-2025-10418,2025-07-08,Australia,PRD-301,InsightStream BI Engine,Data Analytics Suites,16,1385.04,22160.64,8537.10,13623.54
+ORD-2025-10419,2025-07-27,Germany,PRD-203,Supply Chain Sync Pro,Enterprise Software,12,1123.13,13477.56,5959.85,7517.71
+ORD-2025-10420,2025-07-05,Japan,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,9,440.66,3965.94,2709.19,1256.75
+ORD-2025-10421,2025-07-04,Japan,PRD-301,InsightStream BI Engine,Data Analytics Suites,12,1448.66,17383.92,6329.67,11054.25
+ORD-2025-10422,2025-07-18,Australia,PRD-101,CloudCore Compute Node,Cloud Infrastructure,-8,1290.08,9030.56,5392.86,3637.70
+ORD-2025-10423,2025-07-27,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,8,1233.68,9869.44,6745.34,3124.10
+ORD-2025-10424,2025-07-08,India,PRD-402,SIEM Threat Telemetry,Cybersecurity,17,1325.41,22531.97,10058.29,12473.68
+ORD-2025-10425,2025-07-20,United States,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,17,972.62,16534.54,6305.05,10229.49
+ORD-2025-10426,2025-07-20,Singapore,PRD-101,CloudCore Compute Node,Cloud Infrastructure,10,1291.69,12916.90,7879.13,5037.77
+ORD-2025-10427,2025-07-16,United States,PRD-201,Enterprise ERP Core,Enterprise Software,4,1847.43,7389.72,3151.60,4238.12
+ORD-2025-10428,2025-07-04,United Kingdom,PRD-301,InsightStream BI Engine,Data Analytics Suites,14,1473.01,20622.14,7481.07,13141.07
+ORD-2025-10429,2025-08-13,United States,PRD-202,Workflow Automation Suite,Enterprise Software,8,811.81,6494.48,2556.73,3937.75
+ORD-2025-10430,2025-08-31,Canada,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,6,1668.09,10008.54,4536.85,5471.69
+ORD-2025-10431,2025-08-03,United Kingdom,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,15,1620.59,24308.85,9857.83,14451.02
+ORD-2025-10432,2025-08-08,United Kingdom,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,8,439.41,3515.28,2232.27,1283.01
+ORD-2025-10433,2025-08-07,Australia,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,11,967.31,10640.41,6207.29,4433.12
+ORD-2025-10434,2025-08-13,Canada,PRD-301,InsightStream BI Engine,Data Analytics Suites,5,1436.33,7181.65,2715.85,4465.80
+ORD-2025-10435,2025-08-22,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,11,1373.97,15113.67,7487.86,7625.81
+ORD-2025-10436,2025-08-26,Japan,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,14,969.02,13566.28,5322.16,8244.12
+ORD-2025-10437,2025-08-27,Germany,PRD-403,Endpoint Vault Guard,Cybersecurity,17,514.93,8753.81,3845.90,4907.91
+ORD-2025-10438,2025-08-29,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,14,703.57,9849.98,5313.37,4536.61
+ORD-2025-10439,2025-08-30,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,11,1630.98,17620.28,7517.97,10422.81
+ORD-2025-10440,2025-08-07,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,10,446.35,4463.50,2966.70,1496.80
+ORD-2025-10441,2025-08-24,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,9,1386.59,12479.31,5867.35,6611.96
+ORD-2025-10442,2025-08-25,Australia,PRD-502,Rackmount Fiber Switch,Hardware & Edge,9,1233.44,11100.96,7311.86,3789.10
+ORD-2025-10443,2025-08-14,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,2,1579.25,3158.50,2166.20,992.30
+ORD-2025-10444,2025-08-16,India,PRD-403,Endpoint Vault Guard,Cybersecurity,16,504.96,8079.36,2951.70,5127.66
+ORD-2025-10445,2025-08-23,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,13,1625.06,21125.78,8588.26,12537.52
+ORD-2025-10446,2025-08-03,,PRD-203,Supply Chain Sync Pro,Enterprise Software,15,1160.38,17405.70,8608.57,8797.13
+ORD-2025-10447,2025-08-22,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,16,1391.85,22269.60,9922.69,12346.91
+ORD-2025-10448,2025-08-27,Germany,PRD-202,Workflow Automation Suite,Enterprise Software,10,802.60,8026.00,3562.00,4464.00
+ORD-2025-10449,2025-08-06,Germany,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,14,937.59,13126.26,7756.02,5370.24
+ORD-2025-10450,2025-08-01,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,10,1212.83,12128.30,8079.30,4049.00
+ORD-2025-10451,2025-09-04,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,16,662.99,10607.84,5710.67,4897.17
+ORD-2025-10452,2025-09-13,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,3,669.90,2009.70,1081.67,928.03
+ORD-2025-10453,2025-09-06,United States,PRD-202,Workflow Automation Suite,Enterprise Software,8,773.41,6187.28,2430.36,3756.92
+ORD-2025-10454,2025-09-06,Canada,PRD-301,InsightStream BI Engine,Data Analytics Suites,17,1447.65,24610.05,9593.32,15016.73
+ORD-2025-10455,2025-09-25,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,8,959.04,7672.32,4314.46,3357.86
+ORD-2025-10456,2025-09-26,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,3,1596.32,4788.96,3343.91,1445.05
+ORD-2025-10457,2025-09-23,UnknownRegion,PRD-201,Enterprise ERP Core,Enterprise Software,10,1818.95,18189.50,7447.59,10741.91
+ORD-2025-10458,2025-09-19,India,PRD-501,Edge Telemetry Appliance,Hardware & Edge,2,1586.61,3173.22,2155.30,1017.92
+ORD-2025-10459,2025-09-02,Japan,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,3,985.34,2956.02,1060.20,1895.82
+ORD-2025-10460,2025-09-01,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,2,419.71,839.42,548.49,290.93
+ORD-2025-10461,2025-09-06,Canada,PRD-202,Workflow Automation Suite,Enterprise Software,5,771.75,3858.75,1466.06,2392.69
+ORD-2025-10462,2025-09-10,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,5,1355.33,6776.65,2985.07,3791.58
+ORD-2025-10463,2025-09-12,Japan,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,860,1490.00,1281400.00,576630.00,704770.00
+ORD-2025-10464,2025-09-14,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,6,924.31,5545.86,3345.65,2200.21
+ORD-2025-10465,2025-09-13,United States,PRD-301,InsightStream BI Engine,Data Analytics Suites,16,1398.95,22383.20,8630.70,13752.50
+ORD-2025-10466,2025-09-20,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,3,1198.86,3596.58,2371.43,1225.15
+ORD-2025-10467,2025-09-25,United Kingdom,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,4,1654.42,6617.68,2619.07,3998.61
+ORD-2025-10468,2025-09-03,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,13,1411.04,18343.52,9169.51,9174.01
+ORD-2025-10469,2024/14/01,Canada,PRD-202,Workflow Automation Suite,Enterprise Software,8,805.41,6443.28,2491.34,3951.94
+ORD-2025-10470,2025-09-03,United Kingdom,PRD-403,Endpoint Vault Guard,Cybersecurity,7,513.93,3597.51,1511.13,2086.38
+ORD-2025-10471,2025-09-24,Germany,PRD-203,Supply Chain Sync Pro,Enterprise Software,10,1129.90,11299.00,5233.13,6065.87
+ORD-2025-10472,2025-09-25,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,2,1206.90,2413.80,1623.29,790.51
+ORD-2025-10473,2025-09-22,Australia,PRD-102,Elastic Storage Vault,Cloud Infrastructure,7,694.62,4862.34,2548.46,2313.88
+ORD-2025-10474,2025-10-02,Canada,PRD-201,Enterprise ERP Core,Enterprise Software,16,1798.63,28778.08,11989.43,16788.65
+ORD-2025-10475,2025-10-04,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,6,1415.48,8492.88,3202.48,5290.40
+ORD-2025-10476,2025-10-07,Singapore,PRD-403,Endpoint Vault Guard,Cybersecurity,14,525.90,7362.60,2728.94,4633.66
+ORD-2025-10477,2025-10-13,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,14,1592.21,22290.94,10153.92,12137.02
+ORD-2025-10478,2025-10-01,Australia,PRD-303,Data Quality Auditor Pro,Data Analytics Suites,12,1017.67,12212.04,4275.40,7936.64
+ORD-2025-10479,2025-10-21,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,2,530.12,1060.24,443.95,616.29
+ORD-2025-10480,2025-10-24,United Kingdom,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1370.85,10966.80,4668.19,6022.81
+ORD-2025-10481,2025-10-18,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,12,959.86,11518.32,7170.68,4347.64
+ORD-2025-10482,2025-10-10,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,9,949.72,8547.48,4789.86,3757.62
+ORD-2025-10483,2025-10-10,United Kingdom,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,10,950.21,9502.10,5952.64,3549.46
+ORD-2025-10484,2025-10-09,Canada,PRD-201,Enterprise ERP Core,Enterprise Software,17,1799.92,30598.64,13297.20,17301.44
+ORD-2025-10485,2025-10-23,Australia,PRD-301,InsightStream BI Engine,Data Analytics Suites,4,1379.96,5519.84,2303.02,3216.82
+ORD-2025-10486,2025-10-31,Japan,PRD-502,Rackmount Fiber Switch,Hardware & Edge,5,1228.37,6141.85,4077.77,2064.08
+ORD-2025-10487,2025-10-22,United States,PRD-102,Elastic Storage Vault,Cloud Infrastructure,2,694.70,1389.40,744.95,644.45
+ORD-2025-10488,2025-10-09,United States,PRD-202,Workflow Automation Suite,Enterprise Software,13,768.21,9986.73,4011.80,5974.93
+ORD-2025-10489,2025-10-06,Germany,PRD-401,ZeroTrust Identity Shield,Cybersecurity,7,893.42,6253.94,2626.12,3627.82
+ORD-2025-10490,2025-10-26,Australia,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,3,441.14,1323.42,839.81,483.61
+ORD-2025-10491,2025-10-20,Japan,PRD-502,Rackmount Fiber Switch,Hardware & Edge,19,1234.68,23458.92,15409.68,8049.24
+ORD-2025-10492,2025-10-11,Germany,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,22,434.07,9549.54,5855.79,3693.75
+ORD-2025-10493,2025-10-31,Australia,PRD-402,,Cybersecurity,7,1357.62,9503.34,4303.94,5199.40
+ORD-2025-10494,2025-10-04,United States,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,4,977.20,3908.80,2302.82,1605.98
+ORD-2025-10495,2025-10-22,United States,PRD-402,SIEM Threat Telemetry,Cybersecurity,9,1380.56,12425.04,5516.70,6908.34
+ORD-2025-10496,2025-11-19,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,17,518.44,8813.48,3372.16,5441.32
+ORD-2025-10497,2025-11-21,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,16,506.56,8104.96,3541.96,4563.00
+ORD-2025-10498,2025-11-22,Australia,PRD-501,Edge Telemetry Appliance,Hardware & Edge,16,1582.27,25316.32,18513.62,6802.70
+ORD-2025-10499,2025-11-05,United States,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,8,1648.85,13190.80,5771.75,7419.05
+ORD-2025-10500,2025-11-28,United States,PRD-203,Supply Chain Sync Pro,Enterprise Software,9,NULL,10274.49,4593.68,5680.81
+ORD-2025-10501,2025-11-18,Japan,PRD-402,SIEM Threat Telemetry,Cybersecurity,8,1329.96,10639.68,4906.59,5733.09
+ORD-2025-10502,2025-11-06,United Kingdom,PRD-301,InsightStream BI Engine,Data Analytics Suites,12,1398.96,16787.52,6940.17,9847.35
+ORD-2025-10503,2025-11-02,Germany,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,9,429.58,3866.22,2402.96,1463.26
+ORD-2025-10504,2025-11-06,Japan,PRD-202,Workflow Automation Suite,Enterprise Software,2,789.57,1579.14,591.95,987.19
+ORD-2025-10505,2025-11-16,United States,PRD-101,CloudCore Compute Node,Cloud Infrastructure,19,1246.79,23689.01,15126.16,8562.85
+ORD-2025-10506,2025-11-20,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,16,1549.56,25243.21,18259.92,6533.04
+ORD-2025-10507,2025-11-01,Canada,PRD-101,CloudCore Compute Node,Cloud Infrastructure,7,1262.99,8840.93,5544.70,3296.23
+ORD-2025-10508,2025-11-29,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,15,433.15,6497.25,4077.17,2420.08
+ORD-2025-10509,2025-11-12,India,PRD-501,Edge Telemetry Appliance,Hardware & Edge,11,1617.28,17790.08,12080.86,5709.22
+ORD-2025-10510,2025-11-28,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,15,1875.11,28126.65,11420.86,16705.79
+ORD-2025-10511,2025-11-24,Singapore,PRD-102,Elastic Storage Vault,Cloud Infrastructure,18,680.20,12243.60,6646.35,5597.25
+ORD-2025-10512,2025-11-30,Germany,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,19,432.75,8222.25,5497.56,2724.69
+ORD-2025-10513,2025-11-24,Germany,PRD-501,Edge Telemetry Appliance,Hardware & Edge,9,1637.37,14736.33,10826.09,3910.24
+ORD-2025-10514,2025-11-20,India,PRD-403,Endpoint Vault Guard,Cybersecurity,7,521.21,3648.47,1320.60,2327.87
+ORD-2025-10515,2025-11-12,United States,PRD-502,Rackmount Fiber Switch,NULL,10,1234.97,12349.70,8638.19,3711.51
+ORD-2025-10516,2025-11-01,India,PRD-402,SIEM Threat Telemetry,Cybersecurity,9,1386.20,12475.80,5550.93,6924.87
+ORD-2025-10517,2025-11-07,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,10,426.03,4260.30,2641.98,1618.32
+ORD-2025-10518,2025-11-15,Germany,PRD-302,Lakehouse Query Accelerator,Data Analytics Suites,13,1656.84,21538.92,8526.01,13012.91
+ORD-2025-10519,2025-12-27,Japan,PRD-403,Endpoint Vault Guard,Cybersecurity,9,535.72,4821.48,1860.45,2961.03
+ORD-2025-10520,2025-12-24,United States,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,8,443.87,3550.96,2244.80,1306.16
+ORD-2025-10521,2025-12-31,United Kingdom,PRD-201,Enterprise ERP Core,Enterprise Software,21,1906.09,40027.89,17648.72,22379.17
+ORD-2025-10522,2025-12-25,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,970,1490.00,1445300.00,650385.00,794915.00
+ORD-2025-10523,2025-12-25,India,PRD-301,InsightStream BI Engine,Data Analytics Suites,5,1438.46,7192.30,2722.24,4470.06
+ORD-2025-10524,2025-12-21,United Kingdom,PRD-501,Edge Telemetry Appliance,Hardware & Edge,9,1539.29,13853.61,9880.35,3973.26
+ORD-2025-10525,2025-12-20,Germany,PRD-202,Workflow Automation Suite,Enterprise Software,7,783.80,5486.60,2061.18,3425.42
+ORD-2025-10526,2025-12-16,United Kingdom,PRD-403,Endpoint Vault Guard,Cybersecurity,9,538.35,4845.15,1811.14,3034.01
+ORD-2025-10527,2025-12-19,Germany,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,2,927.84,1855.68,1076.22,779.46
+ORD-2025-10528,2025-12-13,Germany,PRD-102,Elastic Storage Vault,Cloud Infrastructure,13,688.34,8948.42,4865.75,4082.67
+ORD-2025-10529,2025-12-01,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,22,1434.35,31555.70,,18369.21
+ORD-2025-10530,2025-12-13,Singapore,PRD-503,Smart Gateway Sensor Kit,Hardware & Edge,13,446.06,5798.78,3700.07,2098.71
+ORD-2025-10531,2025-12-15,United States,PRD-403,Endpoint Vault Guard,Cybersecurity,10,510.04,5100.40,2178.50,2921.90
+ORD-2025-10532,2025-12-28,India,PRD-203,Supply Chain Sync Pro,Enterprise Software,6,1089.02,6534.12,2837.06,3697.06
+ORD-2025-10533,2025-12-19,India,PRD-101,CloudCore Compute Node,Cloud Infrastructure,2,1268.91,2537.82,1568.15,969.67
+ORD-2025-10534,2025-12-29,Germany,PRD-502,Rackmount Fiber Switch,Hardware & Edge,4,1161.31,4645.24,3051.26,1593.98
+ORD-2025-10535,2025-12-26,United Kingdom,PRD-502,Rackmount Fiber Switch,Hardware & Edge,19,1177.81,22378.39,15981.44,6396.95
+ORD-2025-10536,2025-12-25,Singapore,PRD-103,Multi-Region Mesh Gateway,Cloud Infrastructure,13,930.05,12090.65,7596.35,4494.30
+ORD-2025-10537,2025-12-25,Germany,PRD-301,InsightStream BI Engine,Data Analytics Suites,21,1389.46,29178.66,12387.50,16791.16
+ORD-2025-10538,2025-12-16,Germany,PRD-403,Endpoint Vault Guard,Cybersecurity,11,521.43,5735.73,2238.74,3496.99
+ORD-2025-10539,2025-12-24,India,PRD-301,InsightStream BI Engine,Data Analytics Suites,10,1476.70,14767.00,5590.63,9176.37
+ORD-2025-10540,2025-12-10,Canada,PRD-301,InsightStream BI Engine,Data Analytics Suites,5,1428.37,7141.85,2530.20,4611.65
